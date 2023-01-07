@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.8.0"
+  },
+  "name": "safa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/hello-world.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
